@@ -41,7 +41,7 @@ export default {
 .van-image {
   img {
     border-radius: 10px;
-    max-height: 500px;
+    max-height: 450px;
   }
 }
 
